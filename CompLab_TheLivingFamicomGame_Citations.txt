@@ -1,0 +1,36 @@
+Video: “The “Living” Famicom Game
+URL: https://www.youtube.com/watch?v=m07VGsgaOpo
+
+Works Cited:
+
+Bielby, M. (1989). TITAN. Your Sinclair, (45), 16–17.
+
+FAM. (2018, March 23). Titus Front Cover [Scan]. Moby Games.
+	https://www.mobygames.com/game/3511/
+	titan/cover/group-169578/cover-468089/
+
+Gardner, M. (1970). Mathematical Games. Scientific American,
+	223(4), 120–123. JSTOR.
+
+Roberts, Siobhan. (2024). Genius at Play: The Curious Mind of John 
+	Horton Conway. (1st ed.). Princeton University Press.
+
+Titan Prices Famicom. (n.d.). Price Charting. Retrieved April 17, 2026,
+	from https://www.pricecharting.com/game/famicom/titan
+
+Ludography:
+
+Intelligent Systems. (1989). Alleyway [Game Boy].
+
+Nintendo. (1988). Super Mario Bros. 3 [Famicom].
+
+Research In Motion. (2010). BrickBreaker (Version 7.1.0)
+	[Blackberry Bold 9900].
+
+SOFEL. (1990). Titan [Famicom].
+
+Titus Interactive. (1999). Superman: The New
+	Superman Adventures [Nintendo 64].
+
+Trevorrow, A. (2024). Golly [iPad]. The Golly Gang. 
+	https://apps.apple.com/us/app/golly/id553184760"
